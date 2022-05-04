@@ -1,2 +1,4 @@
-# rec-somativo-1
-Por João Vitor Cunha Assumpção
+# Sitema Escolar
+### Exemplo simples de sistema escolar tomando vantagem da POO do Java.  
+  
+Por João Vitor Cunha Assumpção.  
